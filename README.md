@@ -7,13 +7,13 @@ sudo nano ~/.tmux.conf
 
 
 
-#### changing prefix from 'Ctrl+b' to 'Ctrl+a'
+## changing prefix from 'Ctrl+b' to 'Ctrl+a'
 
 unbind C-b
 set-option -g prefix C-a
 
 
-#### Splitting terminals using + and -
+## Splitting terminals using + and -
 
 unbind '"'
 
