@@ -1,7 +1,6 @@
 # tmux Personal Config
 
-*This are some config I like on tmux (terminal app)
-
+*This are some config I like on tmux 
 
 sudo nano ~/.tmux.conf
 
